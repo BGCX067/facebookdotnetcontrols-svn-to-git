@@ -1,0 +1,16 @@
+#summary Introduction to the Facebook.NET IFrame Controls Add-On
+#labels Featured
+= Introduction =
+
+The Facebook.NET Controls Add-On is meant to serve as a series of custom server controls for IFrame Facebook applications developed using Nikhil Kothari's Facebook.NET wrapper for ASP.NET.
+
+
+= Details =
+
+Currently we have implemented the following controls:
+  * The relative time difference control (event X occurred 8 hours ago)
+  * The Facebook user card control (creates a "baseball card" of a user)
+
+= Links =
+  * *Facebook.NET Homepage* http://www.nikhilk.net/FacebookNET.aspx
+  * *AjaxNinja* http://www.ajaxninja.com/
